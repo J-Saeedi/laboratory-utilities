@@ -7,3 +7,19 @@ Also you can join to [Telegram Channel](https://t.me/+XLP0eUss7jQ2YTA0) for easy
 
 ## todo list
 - [ ] create a todo list
+
+
+## notes
+because this project is developing, IT IS RECOMMENDED TO RUN IT INSIDE VIRTUAL ENVIRONMENT! to avoid any system misconfiguration and version conflicts. here is a quick instruction to create and activate virtual environment for python:
+```bash
+#create a virtual environment
+python -m venv venv
+
+# activate for windows users:
+venv\Scripts\activate
+
+# activate for unix users:
+source venv/bin/activate
+
+```
+after successfully creating a virtual environment named **venv**, nex time you just need to activate that venv. so please only run first command once!
